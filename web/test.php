@@ -1,0 +1,2 @@
+$s = "Jude";
+print $s;
